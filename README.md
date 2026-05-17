@@ -23,7 +23,7 @@ Raw Image Given To Me:
 ![Before](building.png)
 
 Final Post I Created:
-![After](BUILDING_POST.jpg)
+![After](BUILDING POST.jpg)
 
 ---
 
