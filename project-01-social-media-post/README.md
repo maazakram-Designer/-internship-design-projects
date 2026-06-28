@@ -20,12 +20,11 @@ My task was to create a real estate marketing post in 1 hour.
 
 ### Before and After:
 Raw Image Given To Me:
+
 ![Before](building.png)
 
 Final Post I Created:
+
 ![After](BUILDING-POST.jpg)
 
 ---
-
-Contact: maazakram356@gmail.com
-LinkedIn: linkedin.com/in/maazakram-849654409
