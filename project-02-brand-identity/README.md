@@ -38,4 +38,4 @@ Post 5
 ---
 
 ## Brand Book
-[View Full Brand Book](1.png)
+![View Full Brand Book](1.png)
