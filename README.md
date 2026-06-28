@@ -3,7 +3,7 @@
 Company: DevelopersHub Corporation
 Role: Graphic Design Intern
 Started: May 2026
-Tools: Adobe Photoshop + Canva + AI
+Tools: Adobe Photoshop + AI
 
 ---
 
