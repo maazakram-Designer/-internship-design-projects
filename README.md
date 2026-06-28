@@ -24,4 +24,4 @@ Full brand identity including 5 social media posts,
 ---
 
 Contact: maazakram356@gmail.com
-LinkedIn: linkedin.com/in/maazakram-849654409
+LinkedIn:https://www.linkedin.com/in/maaz-akram-849654409/
