@@ -1,29 +1,25 @@
-# My Internship Design Projects
+# 🎨 My Internship Design Projects
 
 Company: DevelopersHub Corporation
 Role: Graphic Design Intern
 Started: May 2026
-Tools: Adobe Photoshop + AI
+Tools: Adobe Photoshop + Canva + AI
 
 ---
 
-## Project 1 — Bahria Town Luxury Living Post
+## 📁 Project 01 — Bahria Town Luxury Living Post
+Real estate marketing post created on Day 1 of internship.
+Completed in 1 hour.
 
-I was given a raw building image on Day 1 of my internship.
-My task was to create a real estate marketing post in 1 hour.
+👉 [Click here to see Project 01](project-01-social-media-post)
 
-### My Process:
-- Step 1: Studied the raw image I was given
-- Step 2: Searched for luxury real estate ad inspiration  
-- Step 3: Enhanced image quality using AI tools
-- Step 4: Designed the final post in Adobe Photoshop
+---
 
-### Before and After:
-Raw Image Given To Me:
-![Before](building.png)
+## 📁 Project 02 — Complete Brand Identity Package
+Full brand identity including 5 social media posts, 
+3 logos and a complete brand book.
 
-Final Post I Created:
-![After](BUILDING-POST.jpg)
+👉 [Click here to see Project 02](project-02-brand-identity)
 
 ---
 
