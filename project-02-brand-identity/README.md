@@ -16,6 +16,17 @@ Adobe Photoshop + Canva + AI Prompt Engineering
 
 ---
 
+## Brand Book
+![Brand book](1.jpg)
+![Brand book](2.png)
+![Brand book](3.png)
+![Brand book](4.png)
+![Brand book](5.png)
+![Brand book](6.png)
+![Brand book](7.png)
+
+---
+
 ## Social Media Posts
 Post 1
 ![Post 1](Post1.jpg)
@@ -36,12 +47,3 @@ Post 5
 ![Logo Icon](LOG0-3.jpg)
 
 ---
-
-## Brand Book
-![Brand book](1.jpg)
-![Brand book](2..png)
-![Brand book](3.png)
-![Brand book](4.png)
-![Brand book](5.png)
-![Brand book](6.png)
-![Brand book](7.png)
