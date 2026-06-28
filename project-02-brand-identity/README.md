@@ -1,9 +1,36 @@
-# Project 02 — Brand Identity Package
-My second internship project at DevelopersHub Corporation.
+# Project 02 — Complete Brand Identity Package
 
-Includes:
+## Company
+DevelopersHub Corporation
+
+## What Was Delivered
 - 5 Social Media Posts
-- 3 Logos
+- 3 Logo Variations  
 - 1 Full Brand Book
 
-Tools used: Adobe Photoshop + Canva + AI
+## Tools Used
+Adobe Photoshop + Canva + AI Prompt Engineering
+
+## Time
+[1 week]
+
+---
+
+## Social Media Posts
+![Post 1](Post1.jpg)
+![Post 2](post2.jpg)
+![Post 3](post3.jpg)
+![Post 4](post4.jpg)
+![Post 5](post5.jpg)
+
+---
+
+## Logos
+![Logo Main](logo-01-main.png)
+![Logo Variation](logo-02-variation.png)
+![Logo Icon](logo-03-icon.png)
+
+---
+
+## Brand Book
+[View Full Brand Book PDF](brandbook-final.pdf)
