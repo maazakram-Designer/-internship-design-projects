@@ -31,11 +31,17 @@ Post 5
 ---
 
 ## Logos
-![Logo Main](LOGGO-1.jpg)
+![Logo Main](LOGO-1.jpg)
 ![Logo Variation](LOGO-2.jpg)
-![Logo Icon](LOGO-3.jpg)
+![Logo Icon](LOG0-3.jpg)
 
 ---
 
 ## Brand Book
-[View Full Brand Book]((1.png)(2.png)(3.png)(4.png)(5.png)(6.png)(7.png))
+[View Full Brand Book]((1.png)
+(2.png)
+(3.png)
+(4.png)
+(5.png)
+(6.png)
+(7.png))
