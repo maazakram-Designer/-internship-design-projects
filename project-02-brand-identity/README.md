@@ -4,12 +4,12 @@
 DevelopersHub Corporation
 
 ## What Was Delivered
-- 5 Social Media Posts
-- 3 Logo Variations  
 - 1 Full Brand Book
+- 3 Logo Variations  
+- 5 Social Media Posts
 
 ## Tools Used
-Adobe Photoshop + Canva + AI Prompt Engineering
+Adobe Photoshop + Canva + AI 
 
 ## Time
 [1 week]
@@ -42,8 +42,11 @@ Post 5
 ---
 
 ## Logos
+LOGO 1
 ![Logo Main](LOGO-1.jpg)
+LOGO 2
 ![Logo Variation](LOGO-2.jpg)
+LOGO 3
 ![Logo Icon](LOG0-3.jpg)
 
 ---
