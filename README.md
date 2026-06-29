@@ -11,7 +11,7 @@ Tools: Adobe Photoshop + AI
 Real estate marketing post created on Day 1 of internship.
 Completed in 1 hour.
 
-👉 [Click here to see Project 01](project-01-social-media-post)
+👉 [Click here to see Project 01](project-01-social-media-post/README.md)
 
 ---
 
@@ -19,7 +19,7 @@ Completed in 1 hour.
 Full brand identity including 5 social media posts, 
 3 logos and a complete brand book.
 
-👉 [Click here to see Project 02](project-02-brand-identity)
+👉 [Click here to see Project 02](project-02-brand-identity/README.md)
 
 ---
 
